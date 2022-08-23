@@ -18,6 +18,31 @@ skins_has_been_updated: '§6§lSkins §8:: §aСкин персонажа был
 language_reload_success: '§6§lLanguages §8:: §aЯзыковое сопровождение успешно обновлено'
 language_reload_error: '§6§lLanguages §8:: §cОпять что-то сломалось :c'
 language_reload_warning: '§6§lLanguages §8:: §eВ каком-то из пунктов есть не критическая ошибка'
+language_reload_language_use: '§6§lLanguages §8:: §fИспользование: §6/reloadlang'
+
+# ===========================
+          Core
+# ===========================
+module_load: '§6§lCore §8:: §6/module load <module>'
+module_not_found: '§6§lCore §8:: §cМодуль с таким названием не найден'
+module_already_loaded: '§6§lCore §8:: §cДанный модуль уже загружен в систему'
+module_success_loaded: '§6§lCore §8:: §aМодуль успешно загружен в систему'
+module_unload: '§6§lCore §8:: §6/module unload <module>'
+module_unload_success: '§6§lCore §8:: §aМодуль успешно отгружен'
+
+list_bungee: '§fКоличество игроков на §aProxy:'
+list_bukkit: '§fКоличество игроков на §aSpigot:'
+list_players: '§fКоличество игроков на §dПроекте:'
+
+memory_result:
+- '§fСвободной памяти: §a%s'
+- '§fВсего памяти: §a%s'
+# Дефолтные команды
+alert_use: '§6§lNeverCube §8:: §fИспользование: §6/alert сообщение'
+find_use: '§6§lNeverCube §8:: §fИспользование: §6/find игрок'
+ip_use: '§6§lNeverCube §8:: §fИспользование: §6/ip игрок'
+list_use: '§6§lNeverCube §8:: §fИспользование: §6/list §7& §6/players'
+memory_use: '§6§lNeverCube §8:: §fИспользование: §6/memory сервер'
 # ===========================
          Лобби
 # ===========================
@@ -83,3 +108,11 @@ quest_info_lore:
 - ''
 quest_select: '§6§lQuests §8:: §fВы начали выполнение квеста: §a%s'
 quest_complete: '§6§lQuests §8:: §a§lПоздравляем! §fВы завершили квест: §a%s'
+
+# Oneblock (development)
+island_not_owner: '§6§lOneBlock §8:: §cВы не являетесь владельцем острова'
+island_no_have: '§6§lOneBlock §8:: §cУ вас нет острова. Создайте его командой §6/island create'
+
+# Аукцион [development]
+auction_another_locate: '§6§lTest §8:: §cАукцион находится в другой локации'
+auction_help_command: 'скачать сурсы бесплатно - skachatsborkudlyadaunabesplatno.net'
