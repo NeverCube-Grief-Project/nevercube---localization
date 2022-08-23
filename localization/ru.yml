@@ -59,14 +59,6 @@ memory_use: '§6§lNeverCube §8:: §fИспользование: §6/memory с�
 # ===========================
          Лобби
 # ===========================
-lobby_board_title: '§6§lNeverCube §8:: §e§lLobby'
-lobby_board_date: '   §7'
-lobby_board_group: ' Игровой статус: '
-lobby_board_profile: ' §7§lПрофиль:'
-lobby_board_level: '   Ваш уровень: §d'
-lobby_board_global_online: ' Общий онлайн: §a'
-lobby_board_ip: '       §ewww.nevercube.ru'
-
 lobby_join_title: '§6§l◀ §6§lNever§f§lCube §6§l▶
 lobby_join_subtitle: '§fДобро пожаловать'
 
