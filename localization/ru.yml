@@ -1,1 +1,48 @@
-#член шмеля
+# ===========================
+          Общеее
+# ===========================
+
+auth_changepassword_format: '§5§lАвторизация §8:: §fИспользование: §a/cp страй_пароль новый_пароль'
+auth_license_toggle_format: '§6§lАвторизация §8:: §fИспользование: §a/license on:off §7(включить:выключить)'
+auth_login_format: '§6§lАвторизация §8:: §fИспользование: §a/login пароль'
+auth_register_format: '§6§lАвторизация §8:: §fИспользование: §a/register пароль'
+
+# ===========================
+         Лобби
+# ===========================
+lobby_board_title: '§6§lNeverCube §8:: §e§lLobby'
+lobby_board_date: '   §7'
+lobby_board_group: ' Игровой статус: '
+lobby_board_profile: ' §7§lПрофиль:'
+lobby_board_level: '   Ваш уровень: §d'
+lobby_board_global_online: ' Общий онлайн: §a'
+lobby_board_ip: '       §ewww.nevercube.ru'
+
+lobby_join_title: '§6§l◀ §6§lNever§f§lCube §6§l▶
+lobby_join_subtitle: '§fДобро пожаловать'
+
+profile_item_name: '§a§lПрофиль %s §7(ПКМ)'
+
+boss_bar_lobby:
+- '    §c§lРАЗРАБОТЧИК КРУТОЙ ЧЕЛ'
+- '    §c§lРАЗРАБОТЧИК КРУТОЙ ЧЕЛ'
+- '    §c§lРАЗРАБОТЧИК КРУТОЙ ЧЕЛ'
+- '    §c§lРАЗРАБОТЧИК КРУТОЙ ЧЕЛ'
+
+hologram_level_top:
+- '§6§lЛучшие по серверному уровню'
+- '     §7За всё время'
+- '§r'
+- '{time}'
+- '§7Нажмите здесь, чтобы сменить топ'
+- '{item:EXP_BOTTLE}'
+
+parkour_start_hologram:
+- '§6§lПАРКУР §8:: §a§lНачало'
+- '§fНаграда:'
+- '     §6§l500 золота §8:: §3500 опыта'
+- '{item:STICK}'
+parkour_started: '§6§lParkour §8:: §aВы начали прохождение паркура, удачи!'
+parkour_end: '§6§lParkour §8:: §aЗАЕБИСЬ НАХУЙ, ВЫ ПРОШЛИ, ВЫ МОНСТР! Время прохождения: §a%s'
+parkour_checkpoint: '§6§lParkour §8:: §fВы прошли §6#%s §fчекпоинт, продолжайте в том же духе!'
+parkour_checkpoint_none: '§6§lParkour §8:: §cВы не получили все чекпоинты, начните паркур снова!'
