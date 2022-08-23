@@ -2,10 +2,20 @@
           Общеее
 # ===========================
 
-auth_changepassword_format: '§5§lАвторизация §8:: §fИспользование: §a/cp страй_пароль новый_пароль'
-auth_license_toggle_format: '§6§lАвторизация §8:: §fИспользование: §a/license on:off §7(включить:выключить)'
-auth_login_format: '§6§lАвторизация §8:: §fИспользование: §a/login пароль'
-auth_register_format: '§6§lАвторизация §8:: §fИспользование: §a/register пароль'
+auth_changepassword_format: '§5§lAuth §8:: §fИспользование: §a/cp страй_пароль новый_пароль'
+auth_license_toggle_format: '§6§lAuth §8:: §fИспользование: §a/license on:off §7(включить:выключить)'
+auth_login_format: '§6§lAuth §8:: §fИспользование: §a/login пароль'
+auth_register_format: '§6§lAuth §8:: §fИспользование: §a/register пароль'
+vk_not_binded: '&#9940; У вас не привязан Minecraft-аккаунт к VK'
+vk_status:
+- 'Игровой никнейм: %s'
+- 'Статус: %s'
+- 'IP: %s (%s)'
+- 'Последний вход на сервер: %s'
+- 'Уведомления: выключены'
+- 'Блокировка: %s'
+- 'Двух-этапная аутентификация: выключена'
+- 'Лицензия: выключена'
 
 skins_command_format: '§6§lSkins §8:: §fИспользование: §6/skin лицензионный_ник'
 skins_has_been_reset: '§6§lSkins §8:: §aВаш скин был сброшен до первоначального'
